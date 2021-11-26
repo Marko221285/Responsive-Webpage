@@ -43,3 +43,11 @@ footer p{
   margin: 20px auto;
 }
 
+@media only screen and (max-width: 480px){
+  .links a {
+    font-size: 1ch;
+  }
+	footer p {
+    font-size: 1ch;
+  }   
+}
