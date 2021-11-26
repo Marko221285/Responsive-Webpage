@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import '../styles/global.css'
 
-export default function Layout({children}) {
+export default function Layout({ children }) {
 
     return (
         <div className="layout">
@@ -11,7 +11,7 @@ export default function Layout({children}) {
                 { children }
             </div>
             <footer>
-                <p>Copyrights 2021 gatsby-webpage</p>
+                <p>Copyrights 2021 Universe-Project</p>
             </footer>
         </div>
     )

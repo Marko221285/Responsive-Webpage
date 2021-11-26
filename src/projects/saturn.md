@@ -2,6 +2,9 @@
 title: Saturn
 stack: Solar-System
 slug: saturn
+position: 6
+thumb: ../images/thumbs/Saturn.jpg
+featuredImg: ../images/featured/Saturn.jpg
 ---
 
 **Saturn** is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It only has one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive. Saturn is named after the Roman god of wealth and agriculture. Its astronomical symbol (♄) has been traced back to the Greek Oxyrhynchus Papyri, where it can be seen to be a Greek kappa-rho with a cross-bar, as an abbreviation for Κρονος (Cronos), the Greek name for the planet. It later came to look like a lower-case Greek eta, with the cross added at the top in the 16th century.
